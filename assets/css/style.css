@@ -1,0 +1,51 @@
+.color-ddgray {
+  background-color: #0c0c0c;
+}
+
+.text-color-ddgray {
+  color: #0c0c0c;
+}
+
+.color-dgray {
+  background-color: #212121;
+}
+
+.text-color-dgray {
+  color: #212121;
+}
+
+.color-gray {
+  background-color: #757575;
+}
+
+.text-color-gray {
+  color: #757575;
+}
+
+.color-lgray {
+  background-color: #bdbdbd;
+}
+
+.text-color-lgray {
+  color: #bdbdbd;
+}
+
+.color-red {
+  background-color: #f33535;
+}
+
+.text-color-red {
+  color: #f33535;
+}
+
+.color-dblue {
+  background-color: #32425b;
+}
+
+.text-color-dblue {
+  color: #32425b;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}

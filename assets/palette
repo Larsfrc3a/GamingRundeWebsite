@@ -1,0 +1,54 @@
+
+red{
+	HTML/HEX code:	#f33535
+	RGB code:	rgb(243, 53, 53)
+	Hsl code:	hsl(0, 89%, 58%)
+	Hwb code:	hwb(0, 21%, 5%)
+	Cmyk code:	cmyk(0%, 78%, 78%, 5%)
+	Ncol code:	R0, 21%, 5%
+}
+
+dblue{
+	HTML/HEX code:	#32425b
+	RGB code:	rgb(50, 66, 91)
+	Hsl code:	hsl(217, 29%, 28%)
+	Hwb code:	hwb(217, 20%, 64%)
+	Cmyk code:	cmyk(45%, 27%, 0%, 64%)
+	Ncol code:	C61, 20%, 64%
+}
+
+ddgray{
+	HTML/HEX code:	#0c0c0c
+	RGB code:	rgb(12, 12, 12)
+	Hsl code:	hsl(0, 0%, 5%)
+	Hwb code:	hwb(0, 5%, 95%)
+	Cmyk code:	cmyk(0%, 0%, 0%, 95%)
+	Ncol code:	R0, 5%, 95%
+}
+
+dgray{
+	HTML/HEX code:	#212121
+	RGB code:	rgb(33, 33, 33)
+	Hsl code:	hsl(0, 0%, 13%)
+	Hwb code:	hwb(0, 13%, 87%)
+	Cmyk code:	cmyk(0%, 0%, 0%, 87%)
+	Ncol code:	R0, 13%, 87%
+}
+
+gray{
+	HTML/HEX code:	#757575
+	RGB code:	rgb(117, 117, 117)
+	Hsl code:	hsl(0, 0%, 46%)
+	Hwb code:	hwb(0, 46%, 54%)
+	Cmyk code:	cmyk(0%, 0%, 0%, 54%)
+	Ncol code:	R0, 46%, 54%
+}
+
+lgray{
+	HTML/HEX code:	#bdbdbd
+	RGB code:	rgb(189, 189, 189)
+	Hsl code:	hsl(0, 0%, 74%)
+	Hwb code:	hwb(0, 74%, 26%)
+	Cmyk code:	cmyk(0%, 0%, 0%, 26%)
+	Ncol code:	R0, 74%, 26%
+}
